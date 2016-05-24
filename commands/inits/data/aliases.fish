@@ -1,0 +1,5 @@
+alias gs "scmpuff_status"
+alias ga "git diff"
+alias gd "git log"
+alias gco "git checkout"
+alias grs "git reset"
